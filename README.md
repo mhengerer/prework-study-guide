@@ -14,11 +14,13 @@ Each Section of this webpage contains a topic such as **HTML**, **CSS**, **Git**
 Control+Shift+I
 ```
 for Windows
+
 or
 ```Mac
 Command+Option+I
 ```
 for Mac
+
 Inside the Devtools console you can find **JavaScript** running that will display yet *another* list for your enjoyment. This list is not notes however, on the contrary this list displays the topics we are exploring in this webpage which we went over previously. Also found at the the end of the list in the DevTools console will be a message telling you which topic you have been assigned to study first. You may choose whatever topic you want to study after that topic but you must study the topic displayed first. Those are the rules.
 
 ---
